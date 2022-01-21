@@ -8,4 +8,5 @@ This is from VIsual studio
 this line from bash
 
 thi next bash
-
+[root@ip-172-31-40-105 git-bare-repo]# ls
+github
