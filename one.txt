@@ -7,3 +7,5 @@ This is from VIsual studio
 
 this line from bash
 
+thi next bash
+
