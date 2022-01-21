@@ -2,3 +2,8 @@ This is first entry
 this is this is second 
 
 aI add some for locala 
+
+This is from VIsual studio
+
+this line from bash
+
